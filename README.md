@@ -26,4 +26,4 @@ Might consider the feather line for final build
 - [Hand wiring a custom keyboard](https://matt3o.com/hand-wiring-a-custom-keyboard/)
 - [esp32](https://www.espressif.com/en/products/socs/esp32)
 - [esp32_mouse_keyboard_project](https://github.com/asterics/esp32_mouse_keyboard)
-
+- [esp32 liPoly stuff with adafruit feather ecosystem](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/power-management)
