@@ -14,8 +14,10 @@ mechanical keyboard buildlog
 - battery charging process / pcb design vs pre-made module
 - esp32 soc size / existing pre-made module potentially with battery charging built in?
 
-- [RGB leds](https://www.aliexpress.com/item/32966375934.html?spm=a2g0s.9042311.0.0.27424c4dv4DTiK)
-- [esp32 board I'm using for prototyping] (https://www.aliexpress.com/item/32906857429.html?spm=a2g0s.9042311.0.0.27424c4dv4DTiK)
+- [potential RGB leds?](https://www.aliexpress.com/item/32966375934.html?spm=a2g0s.9042311.0.0.27424c4dv4DTiK)
+
+Currently using this for prototyping
+- [esp32 prototype] (https://www.aliexpress.com/item/32906857429.html?spm=a2g0s.9042311.0.0.27424c4dv4DTiK)
 
 Might consider the feather line for final build
 - [esp32 board for build?](https://www.adafruit.com/product/3405)
