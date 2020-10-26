@@ -14,6 +14,8 @@ mechanical keyboard buildlog
 - battery charging process / pcb design vs pre-made module
 - esp32 soc size / existing pre-made module potentially with battery charging built in?
 
+- [usb-c liPoly charger?](https://www.adafruit.com/product/4410)
+
 - [potential RGB leds?](https://www.aliexpress.com/item/32966375934.html?spm=a2g0s.9042311.0.0.27424c4dv4DTiK)
 
 Currently using this for prototyping
