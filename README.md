@@ -24,6 +24,10 @@ Currently using this for prototyping
 Might consider the feather line for final build
 - [esp32 board for build?](https://www.adafruit.com/product/3405)
 
+## Misc Reading Material
+- [Mechanical Switch sound dampening techniques](https://www.reddit.com/r/MechanicalKeyboards/comments/5qmywo/a_relatively_simple_method_of_silencing_any/)
+- https://www.youtube.com/watch?v=PW_ommH2S5I
+
 ## Documentation
 - [Hand wiring a custom keyboard](https://matt3o.com/hand-wiring-a-custom-keyboard/)
 - [esp32](https://www.espressif.com/en/products/socs/esp32)
